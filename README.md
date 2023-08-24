@@ -46,24 +46,12 @@ Please ensure that your changes are well-documented and tested.
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 
-<img src='https://github.com/IPH-Technologies-Pvt-Ltd/epub-book-reader/assets/133772183/842378e5-7c7a-4905-96bd-6e2743052d41'
-      width="800" 
-     height="400"
+<img src='https://github.com/IPH-Technologies-Pvt-Ltd/epub-book-reader/assets/133772183/583ce4c3-776b-44af-822a-015d4338adde'
+      width="700" 
+     height="350"
   />
 
 
-
-
-
-
-
-
-
-
-<img src='https://github.com/IPH-Technologies-Pvt-Ltd/epub-book-reader/assets/133772183/3157adf8-4c0b-4df8-9cbc-d2d70f91d922'
-      width="800" 
-     height="400"
-  />
 
 
 
