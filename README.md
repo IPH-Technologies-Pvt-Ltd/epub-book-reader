@@ -45,10 +45,14 @@ Please ensure that your changes are well-documented and tested.
 ##  License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-<img src='[https://github.com/IPH-Technologies-Pvt-Ltd/Fitness_App_UI/assets/126752734/5ad8daff-c574-49ef-8531-a9ea03410cc6](https://github.com/IPH-Technologies-Pvt-Ltd/epub-book-reader/assets/133772183/9a66e0b8-9132-4169-af33-f5f6d06b4034)https://github.com/IPH-Technologies-Pvt-Ltd/epub-book-reader/assets/133772183/9a66e0b8-9132-4169-af33-f5f6d06b4034'
+<img src='https://github.com/IPH-Technologies-Pvt-Ltd/epub-book-reader/assets/133772183/842378e5-7c7a-4905-96bd-6e2743052d41'
       width="800" 
      height="400"
   />
+
+
+
+
 
 
 
